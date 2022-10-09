@@ -1,13 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May  2 10:50:27 2019
-
-@author: juangabriel
-"""
-
 # Kernel ACP
-
 
 # Cómo importar las librerías
 import numpy as np
